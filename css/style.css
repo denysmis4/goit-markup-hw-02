@@ -54,12 +54,10 @@ a {
 }
 
 .first-section {
-  width: 1440px;
-  height: 600px;
   background: #2e2f42;
 }
 
-.h1-name {
+.firsth {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -74,6 +72,11 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   cursor: pointer;
+}
+
+.order-button:hover,
+.order-button:focus {
+  background-color: #404bbf;
 }
