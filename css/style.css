@@ -52,3 +52,28 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.first-section {
+  width: 1440px;
+  height: 600px;
+  background: #2e2f42;
+}
+
+.h1-name {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.order-button {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #404bbf;
+  cursor: pointer;
+}
